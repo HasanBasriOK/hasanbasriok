@@ -1,4 +1,4 @@
-# 🙋‍♀️ Hello Dear All !
+# 🙋‍♂️ Hello Dear All !
 
 - I am Hasan. 
 - I think the README files make Github a more social place. 
@@ -6,12 +6,12 @@
 
 ## 👉 Follow This List
 
-- [🧕 About Me](#-about-me)
-- [👩‍💻 Technical Skills](#-technical-skills)
+- [🥷 About Me](#-about-me)
+- [🧑‍💻 Technical Skills](#-technical-skills)
 - [💼 Work Preferences](#-work-preferences)
 - [💬 Contact](#-contact)
 
-## 🧕 About Me 
+## 🥷 About Me 
 
 ### Professionally 
 
@@ -37,7 +37,7 @@
 - I’m 28 years old, 
 - And I'm married to a perfect software engineer. 
 
-## 👩‍💻 Technical Skills 
+## 🧑‍💻 Technical Skills 
 
 - LEARNING NOWADAYS : Node.js , Swift(UIKit,SwiftUI)
 - Frontend : HTML, CSS, Javascript, Jquery, React.js, Redux
