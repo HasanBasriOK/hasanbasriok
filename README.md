@@ -24,6 +24,7 @@
 - Yalova University, Faculty of Engineering, Computer Engineering  
 - Ataturk University, Open Education Faculty, Computer Programming 
 - Microsoft Software and System Expertise , Smart Pro 
+
   - Developing windows form application with C#
   - ASP.NET MVC
   - MSSQL 
