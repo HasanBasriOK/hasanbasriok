@@ -16,7 +16,7 @@
 ### Professionally 
 
 - Too many personal projects 
-- 4 Work Experience
+- 5 Work Experience
 - Leading project and team experience
 
 ### Academically 
@@ -42,11 +42,11 @@
 - LEARNING NOWADAYS : Node.js , Swift(UIKit,SwiftUI)
 - Frontend : HTML, CSS, Javascript, Jquery, React.js, Redux
 - Backend : C# (WCF,Web API, .NET Core, EF Core) , Ocelot Gateway
-- Databases : MSSQL, PostgreSQL,Oracle,Firebase,Coredata,Redis,MongoDB
+- Databases : MSSQL, PostgreSQL,Oracle,Firebase,Coredata,Redis,MongoDB,Cassandra
 - Mobile : Swift , Kotlin 
 - DevOps : Docker
 - Source Control : Git,TFS
-- Messaging Queues : RabbitMQ
+- Messaging Queues : RabbitMQ,Kafka
 - Test Automation : Robot Framework,Selenium,Appium
 
 ## 💼 Work Preferences 
