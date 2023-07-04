@@ -16,13 +16,13 @@
 ### Professionally 
 
 - Too many personal projects 
-- 5 Work Experience
+- 6 Work Experience
 - Leading project and team experience
 
 ### Academically 
 
-- Yalova University, Faculty of Engineering, Computer Engineering  
-- Ataturk University, Open Education Faculty, Computer Programming 
+- Düzce University,  Computer Engineering  
+- Ataturk University, Computer Programming 
 - Microsoft Software and System Expertise , Smart Pro 
    - Developing windows form application with C#
    - ASP.NET MVC
@@ -34,7 +34,7 @@
 - My name is Hasan Basri OK
 - I'm a Software Engineer. 
 - I'm based in Turkey, Istanbul. 
-- I’m 28 years old, 
+- I’m 30 years old, 
 - And I'm married to a perfect software engineer. 
 
 ## 🧑‍💻 Technical Skills 
@@ -44,9 +44,9 @@
 - Backend : C# (WCF,Web API, .NET Core, EF Core) , Ocelot Gateway
 - Databases : MSSQL, PostgreSQL,Oracle,Firebase,Coredata,Redis,MongoDB,Cassandra
 - Mobile : Swift , Kotlin 
-- DevOps : Docker
+- DevOps : Docker,Azure Devops
 - Source Control : Git,TFS
-- Messaging Queues : RabbitMQ,Kafka
+- Messaging Queues : RabbitMQ, Kafka, Azure Service Bus
 - Test Automation : Robot Framework,Selenium,Appium
 
 ## 💼 Work Preferences 
